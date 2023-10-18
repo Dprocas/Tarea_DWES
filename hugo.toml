@@ -1,0 +1,19 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme ="terminal"
+
+[[menu.main]]
+name = "pilotos"
+url = "/pilotos/"
+
+[[menu.main]]
+name = "noticias"
+url = "/noticias/"
+
+[[menu.main]]
+name = "clasificacion"
+url = "/clasificacion/"
+
+[Author]
+    name = "Scuderia Ferrari"
